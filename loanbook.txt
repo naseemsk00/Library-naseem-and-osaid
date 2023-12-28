@@ -1,0 +1,7 @@
+tete, Loan Date: 2023-12-20, Due Date: 2023-12-25
+Book Title: gogo, Student id: 211143, Loan Date: 2023-12-21, Due Date: 2023-12-26
+Book Title: qpqp, Student id: 211143, Loan Date: 2023-12-27, Due Date: 2024-01-01
+Book Title: dodo, Student id: 227142, Loan Date: 2023-12-27, Due Date: 2024-01-01
+Book Title: osaid, Student id: 211111, Loan Date: 2023-12-27, Due Date: 2024-01-01
+Book Title: yoyo, Student id: 211111, Loan Date: 2023-12-27, Due Date: 2024-01-01
+Book Title: cs, Student id: 1, Loan Date: 2023-12-27, Due Date: 2024-01-01
